@@ -1,0 +1,69 @@
+html {
+	background-color: #3B5998 !important;
+	text-align: center !important;
+}
+
+a {
+	font-family: Lato;
+	font-size: 15px;
+	color: white;
+	text-decoration: none;
+}
+
+input {
+	border: none;
+	font-family: Lato;
+	font-size: 14px;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 270px;
+	height: 40px;
+	background: transparent;
+	border-top: none;
+	outline: none;
+}
+
+#main-container {
+	margin-top: 9%;
+}
+
+#logo {
+	font-family: Cabin;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+.tables {
+	background: white;
+	border-radius: 4px;
+	width: 290px;
+	margin-top: 1%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.5%;
+}
+
+#log-in {
+	background: #5069A1;
+	font-family: Lato;
+	font-size: 15px;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	width: 290px;
+	height: 50px;
+	margin-bottom: 10%;
+	outline: none;
+	cursor: pointer;
+}
+
+.log-in {
+	margin-bottom: 1%;
+}
+
+.error {
+	font-family: Lato;
+	font-size: 10px;
+	color: gray;
+}
